@@ -76,7 +76,7 @@ configuration files.
 
 The official documentations containing all necessary details about the software
 in general is accessible on the site -
-[repoforge.weburz.com](https://repoforge.weburz.com). Locally accessible
+[https://weburz.github.io/repoforge](https://weburz.github.io/repoforge). Locally accessible
 documentations should also be accessible to the users through manpages and help
 commands.
 
